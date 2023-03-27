@@ -72,16 +72,16 @@
 		"type": 3,
 		"url": "Web"
 	}, {
-		"name": "bozrc",
+		"name": "b",
 		"type": 0,
-		"url": "https://jx.bozrc.com:4433/player/?url=",
+		"url": "http://124.221.180.169:999/api/?key=d35d10afa9183bb0c777b94a1a7f71c2&url=",
 		"ext": {
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
 		}   
 	}, {
 		"name": "未知",
 		"type": 0,
-		"url": "https://jx.zhanlangbu.com/?url=",
+		"url": "http://jm.maoyingshi.cc/yunxing.php?url=https://v.qq.com/x/cover/mzc0020080umg58/k0045i7k1ke.html",
 		"ext": {
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
 		}    
